@@ -111,10 +111,7 @@ The list of users is dynamically fetched and displayed from the backend (JSON Se
 Contributing
 If you want to contribute to the project, feel free to fork the repository and submit pull requests. Suggestions and improvements are always welcome.
 
-## Contributors:
-Atisha Shrivas
-Email: atisha.shrivas@gmail.com
 
-## Live Demo:
-https://atisha-sh.github.io/Role-Based-Access-Control-RBAC-UI/
+
+
 
